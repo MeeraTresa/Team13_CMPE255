@@ -16,5 +16,5 @@ This project consists of five Jupyter Notebooks.
 5. Customer Segmentation
 
 Each one of the above techniques was applied to the Online Retail Data Set, which was obtained from the UCI Machine Learning repository. The data contains information about transnational transactions for a UK-based and registered non-store online retail.
-Link to the dataset - https://archive.ics.uci.edu/ml/datasets/online+retail
+Link to the dataset - https://archive.ics.uci.edu/ml/datasets/online+retail.
 The dataset consists of 541909 records.
